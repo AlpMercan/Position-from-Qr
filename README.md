@@ -1,4 +1,3 @@
-Here's a refined version of the README for your Git repository:
 Camera QR Code Position Determination
 
 This project aims to determine the position of a camera relative to a QR code or vice versa.
